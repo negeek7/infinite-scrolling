@@ -34,7 +34,7 @@ function App() {
         },
         headers: {
           Authorization:
-            "Client-ID jMBsfIqFj88cgfsDPV4fRDfpZRwjP3zVN7nKohqWV6c",
+            "Client-ID XR730jcltz0j7V-6Yy86UrQAPGGhIWL3hSFmEbizoYw",
         },
       }
     );
